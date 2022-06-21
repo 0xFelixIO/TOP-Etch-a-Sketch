@@ -5,11 +5,12 @@ html,body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: black;
 }
 .capsuleDiv {
     display: flex;
     flex-direction: column;
-    border: 2px solid orange;
+   
     width: 80vh;
     height: 80vh;
     margin-top: -10vh;
@@ -17,7 +18,7 @@ html,body {
 
 .row {
     display: flex;
-    background-color: purple;
+    background-color: white;
     flex: 1;
 }
 
